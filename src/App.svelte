@@ -1,6 +1,6 @@
 <script>
 	import Album from'./Album.svelte'
-	let title = "Habib Attarsah"
+	let title = "Dogs"
 	// export let name
 	// const makananFavorit = ['Nasi Goreng','Indomi','Sup buntut']
 </script>
